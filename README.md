@@ -25,28 +25,33 @@ Since education is a powerful instrument of social change and human progress, it
 ## Demo
 
 ### Exam Registration Page
-<center><img src="SS/1.png"></center>
+<center><img src="SS/1.png" width="700px"></center>
 
 ### Automatically Generated Hall Tickets
-<center><img src="SS/2.png"></center>
+<center><img src="SS/2.png" width="700px"></center>
 
 ### Exam Timetable generation
-<center><img src="SS/3.png"></center>
+<center><img src="SS/3a.png" width="700px"></center>
+
+<center><img src="SS/3b.png" width="700px"></center>
 
 ### Student Verfication App using ID Card Barcode
-<center><img src="SS/4.png"></center>
+<center><img src="SS/4.gif" width="400px"></center>
 
 ### Student Verification using Facial Recognition
-<center><img src="SS/5.png"></center>
+<center><img src="SS/5.png" width="700px"></center>
 
 ### Student Discussion Forum 
-<center><img src="SS/6.png"></center>
+<center><img src="SS/6.png" width="700px"></center>
 
 ### Corrected Papers Marks Uploading
-<center><img src="SS/7.png"></center>
+<center><img src="SS/7.gif" width="400px"></center>
+
+#### Results
+<center><img src="SS/7a.png" width="250px"></center>
 
 ### Exam Timetable integration with Google Calendar on your phone
-<center><img src="SS/8.png"></center>
+<center><img src="SS/8.png" width="700px"></center>
 
 
 ## Built With
